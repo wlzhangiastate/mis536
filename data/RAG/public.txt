@@ -17,5 +17,4 @@
 " To reach the Udvar-Hazy Center near Dulles by public transit, which Metrorail station do you ride to before transferring to a bus, and what is the bus provider?","Innovation Center station; Fairfax Connector bus"
 " Identify the lab operator and city for the Ames National Laboratory.","Iowa State University, Ames, Iowa"
 " Who was the 2024 NBA Finals MVP?","Jaylen Brown"
-" In which U.S. state and city is the National Cancer Institute’s Shady Grove campus located, and what Metro line does its shuttle connect to?","Rockville, Maryland; Red Line"
-
+" The National Cancer Institute (NCI) is the federal government's principal agency for cancer research and training. Their team of approximately 3,500 is part of the National Institutes of Health (NIH), one of 11 agencies that make up the Department of Health and Human Services (HHS). NCI is deeply committed to core values that allow all staff to reach their potential and fully contribute to the institute’s cancer mission. In which U.S. state and city is the National Cancer Institute’s Shady Grove campus located, and what Metro line does its shuttle connect to?","Rockville, Maryland; Red Line"
