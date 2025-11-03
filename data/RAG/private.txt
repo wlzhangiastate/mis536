@@ -1,20 +1,20 @@
-What is the largest planet in our solar system?
-Which element has the chemical symbol "O"?
-Who discovered penicillin?
-In rugby union, how many points is a try worth?
-Who developed the theory of general relativity?
-What does CPU stand for in computing?
-Who won the 2023 Nobel Prize in Physiology or Medicine?
-On what date did London’s Elizabeth line open to passengers?
-What is the IATA code for Chicago O’Hare International Airport?
-For U.S. adults age 16 or older, how many years is a passport valid?
-Which museum displays Vincent van Gogh’s "The Starry Night"?
-What is the street address of the National Archives Museum in Washington, DC?
-From which two locations do ferries depart to the Statue of Liberty?
-Which subway lines serve 34 St-Penn Station next to Madison Square Garden?
-The Bodleian Library is the main research library of the University of Oxford. Founded in 1602 by Sir Thomas Bodley, it is one of the oldest libraries in Europe. What is the name of its oldest reading room?
-"Attention Is All You Need" is a 2017 landmark research paper in machine learning authored by eight scientists working at Google. They propose a new simple network architecture, the Transformer, based solely on attention mechanisms." Attention Is All You Need" was presented at which conference and in what year?
-The Jet Propulsion Laboratory is a federally funded research and development center in La Cañada Flintridge, California, Crescenta Valley, United States. Founded in 1936 by California Institute of Technology researchers, the laboratory is now owned and sponsored by NASA and administered and managed by Caltech. Who manages NASA’s Jet Propulsion Laboratory (JPL)?
-Alcatraz Island is a historic landmark in San Francisco Bay, known for its history as a military and maximum-security federal prison, its nickname "The Rock," and its role as a bird sanctuary. From which pier do official ferries to Alcatraz Island depart in San Francisco?
-Washington Dulles International Airport – commonly known simply as Dulles Airport – is an international airport serving the United States' capital city, Washington, D.C. and its surrounding area. It is located 26 miles west of downtown Washington, D.C., in Loudoun and Fairfax counties in Northern Virginia. What is the IATA airport code for Washington Dulles International Airport?
-Rembrandt Harmenszoon van Rijn, or simply Rembrandt, was a Dutch painter, printmaker, and draftsman during the Golden Age. He's widely considered one of Western art's greatest visual artists. Rembrandt was a prolific artist who created portraits, etchings, and historical and biblical scenes. In which museum is Rembrandt’s "The Night Watch" prominently displayed?
+" What is the largest planet in our solar system?" 
+" Which element has the chemical symbol <O>?"
+" Who discovered penicillin?"
+" In rugby union, how many points is a try worth?"
+" Who developed the theory of general relativity?"
+" What does CPU stand for in computing?"
+" Who won the 2023 Nobel Prize in Physiology or Medicine?"
+" On what date did London’s Elizabeth line open to passengers?"
+" What is the IATA code for Chicago O’Hare International Airport?"
+" For U.S. adults age 16 or older, how many years is a passport valid?"
+" Which museum displays Vincent van Gogh’s <The Starry Night>?"
+" What is the street address of the National Archives Museum in Washington, DC?"
+" From which two locations do ferries depart to the Statue of Liberty?"
+" Which subway lines serve 34 St-Penn Station next to Madison Square Garden?"
+" The Bodleian Library is the main research library of the University of Oxford. Founded in 1602 by Sir Thomas Bodley, it is one of the oldest libraries in Europe. What is the name of its oldest reading room?"
+" <Attention Is All You Need> is a 2017 landmark research paper in machine learning authored by eight scientists working at Google. They propose a new simple network architecture, the Transformer, based solely on attention mechanisms. <Attention Is All You Need> was presented at which conference and in what year?"
+" The Jet Propulsion Laboratory is a federally funded research and development center in La Cañada Flintridge, California, Crescenta Valley, United States. Founded in 1936 by California Institute of Technology researchers, the laboratory is now owned and sponsored by NASA and administered and managed by Caltech. Who manages NASA’s Jet Propulsion Laboratory (JPL)?"
+" Alcatraz Island is a historic landmark in San Francisco Bay, known for its history as a military and maximum-security federal prison, its nickname <The Rock>, and its role as a bird sanctuary. From which pier do official ferries to Alcatraz Island depart in San Francisco?"
+" Washington Dulles International Airport – commonly known simply as Dulles Airport – is an international airport serving the United States' capital city, Washington, D.C. and its surrounding area. It is located 26 miles west of downtown Washington, D.C., in Loudoun and Fairfax counties in Northern Virginia. What is the IATA airport code for Washington Dulles International Airport?"
+" Rembrandt Harmenszoon van Rijn, or simply Rembrandt, was a Dutch painter, printmaker, and draftsman during the Golden Age. He's widely considered one of Western art's greatest visual artists. Rembrandt was a prolific artist who created portraits, etchings, and historical and biblical scenes. In which museum is Rembrandt’s "The Night Watch" prominently displayed?"
